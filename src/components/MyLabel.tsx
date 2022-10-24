@@ -4,7 +4,7 @@
 import "./mylabel.css";
 import { AllCaps, CustomFontColor } from '../stories/components/MyLabel.stories';
 
-interface Props {
+export interface Props {
   /**
    * This is the message it shows in the label
    */
